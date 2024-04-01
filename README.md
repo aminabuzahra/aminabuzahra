@@ -36,3 +36,4 @@ With a B.Sc. in Computer Science and experience as a Java Devloper, Unity Develo
 - **GitHub**: [Amin Abu-Zahra](https://github.com/aminabuzahra)
 
 So let's connect and make something amazing together!
+![GitHub contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
