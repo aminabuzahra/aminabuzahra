@@ -7,7 +7,7 @@ With a B.Sc. in Computer Science and experience as a Java Devloper, Unity Develo
 ## 🛠 Technical Skills
 
 - **Programming Languages**: Proficient in Python, Bash, C#, and Java.
-- - **Game Development**: Experienced Unity Developer, with hands-on experience in VR applications.
+- **Game Development**: Experienced Unity Developer, with hands-on experience in VR applications.
 - **Cloud Technologies**: Skilled in AWS Cloud Services(EC2, EBS, EKS, IAM, S3, VPC, Lambda, CloudWatch, DynamoDB, SQS & SNS), leveraging cloud resources for scalable solutions.
 - **Containers & Orchestration**: Skilled in Docker, Kubernetes, and Helm, focusing on containerized environments and orchestration to ensure robust deployment strategies.
 - **CI/CD & DevOps Tools**: Jenkins, ArgoCD, Nexus, Terraform, and Ansible for continuous integration and deployment, infrastructure as code, and automation.
