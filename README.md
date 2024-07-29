@@ -2,17 +2,18 @@
 
 ## 🚀 About Me
 
-With a B.Sc. in Computer Science and experience as a Java Devloper, Unity Developer and DevOps Engineer, with a passion for blending software development with operations to create scalable and efficient solutions. My journey in tech began with software development, specializing in Python and C#, and has expanded into the realms of DevOps, cloud integration, and infrastructure automation.
+With a B.Sc. in Computer Science and experience as a Java and Python Devloper, Unity/C# Developer, Front-end Developer, and DevOps Engineer, with a passion for blending software development with operations to create scalable and efficient solutions. My journey in tech began with software development, and has expanded into the realms of DevOps, cloud integration, and infrastructure automation.
 
 ## 🛠 Technical Skills
 
-- **Programming Languages**: Proficient in Python, Bash, C#, and Java.
+- **Programming Languages**: Proficient in Python, Bash, C#, JavaScript and Java.
 - **Game Development**: Experienced Unity Developer, with hands-on experience in VR applications.
+- **Frontend Web Development**: Proficient in HTML, CSS, JavaScript, and React. I create interactive and responsive web applications.
 - **Cloud Technologies**: Skilled in AWS Cloud Services(EC2, EBS, EKS, IAM, S3, VPC, Lambda, CloudWatch, DynamoDB, SQS & SNS), leveraging cloud resources for scalable solutions.
 - **Containers & Orchestration**: Skilled in Docker, Kubernetes, and Helm, focusing on containerized environments and orchestration to ensure robust deployment strategies.
 - **CI/CD & DevOps Tools**: Jenkins, ArgoCD, Nexus, Terraform, and Ansible for continuous integration and deployment, infrastructure as code, and automation.
 - **Monitoring Tools**: Elasticsearch, Kibana, Grafana, Prometheus, FluentD.
-- **Creative & Development Tools**: Skilled in Unity3D, Blender, and Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere), along with Ableton DAW for game development and digital art/sound creation.
+- **Creative & Design Tools**: Skilled in Unity3D, Blender, and Adobe Creative Suite (Photoshop, Illustrator, After Effects, Premiere), along with Ableton DAW for game development and digital art/sound creation.
 - **IoT Platforms**: Hands-on experience teaching and creating projects with Arduino and Raspberry Pi.
 
 ## 🎓 Education
