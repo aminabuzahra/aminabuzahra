@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-With a B.Sc. in Computer Science and experience as a Java and Python Devloper, Unity/C# Developer, Front-end Developer, and DevOps Engineer, with a passion for blending software development with operations to create scalable and efficient solutions. My journey in tech began with software development, and has expanded into the realms of DevOps, cloud integration, and infrastructure automation.
+With a B.Sc. in Computer Science and experience as a Java deeloper, Python Developer, Unity & C# Developer, Front-end Developer, and DevOps Engineer, with a passion for blending software development with operations to create scalable and efficient solutions. My journey in tech began with software development and has expanded into the realms of DevOps, cloud integration, and infrastructure automation.
 
 ## 🛠 Technical Skills
 
