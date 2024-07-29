@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-With a B.Sc. in Computer Science and experience as a Java developer, Python Developer, Unity & C# Game Developer, Front-end Developer, and DevOps Engineer, with a passion for blending software development with operations to create scalable and efficient solutions. My journey in tech began with software development and has expanded into the realms of DevOps, cloud integration, and infrastructure automation. I have also dedicated several years to teaching game design & development, C#, 3d modeling (blender), and game audio, guiding students through their game dev journeys.
+With a B.Sc. in Computer Science and experience as a Java developer, Python Developer, Unity & C# Game Developer, Front-end Developer, and DevOps Engineer, with a passion for blending software development with operations to create scalable and efficient solutions. My journey in tech began with software development and has expanded into the realms of DevOps, cloud integration, and infrastructure automation. I have also dedicated several years to teaching game design & development, C#, 3d modeling (blender), and game audio, guiding students through their learning journeys.
 
 ## 🛠 Technical Skills
 
