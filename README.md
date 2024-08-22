@@ -39,4 +39,5 @@ When I'm not coding or designing, you'll find me immersed in:
 - Practicing Arabic calligraphy, perfecting my archery skills, and connecting with the artistry of both.
 
 I'm always eager to collaborate on projects that push boundaries and challenge the status quo. Let's create something extraordinary together!
+
 ![GitHub contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
