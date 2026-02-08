@@ -1,4 +1,4 @@
-# Welcome to My GitHub! I'm Amin Abu-Zahra 🚀
+# Welcome to My GitHub! I'm Amin Abu-Zahra
 
 ## About Me
 Hello! I'm Amin, a versatile tech enthusiast with a B.Sc. in Computer Science and a rich tapestry of experience that intertwines DevOps engineering, game development, and creative media arts. My journey has been fueled by a deep-seated passion for technology, creativity, and education. I've had the privilege of working at the intersection of art and technology, developing innovative software solutions while mentoring the next generation of tech pioneers. Whether it's crafting immersive game worlds, building robust cloud architectures, or producing digital art, I thrive on bringing ideas to life and enhancing user experiences.
